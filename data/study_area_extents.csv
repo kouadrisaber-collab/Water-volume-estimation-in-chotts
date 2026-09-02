@@ -1,0 +1,5 @@
+chott,country,sensor,mndwi_threshold,west,south,east,north
+Chott Melghigh,Algeria,Landsat-8,-0.1,5.825829,34.089807,6.996115,34.913205
+Chott Merouane,Algeria,Landsat-8,-0.1,5.927028,33.853596,6.500225,34.21221
+Chott Djerid,Tunisia,Sentinel-2,-0.11,7.724641,33.290255,9.464564,34.065671
+Chott Gharsa,Tunisia,Landsat-8,-0.1,7.360559,33.915131,8.235854,34.258467

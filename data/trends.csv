@@ -1,0 +1,25 @@
+chott,series,test,n,trend,tau,p,sens_slope,significant_05
+Djerid,monthly water area (km2),Seasonal MK,72,increasing,0.389,0.0002,47.846,True
+Djerid,monthly water volume (m3),Seasonal MK,72,increasing,0.333,0.0014,64525445.3631,True
+Djerid,wet-season (Feb) water area (km2),MK,6,no trend,0.733,0.0603,67.3702,False
+Djerid,dry-season (Jun) water area (km2),MK,6,no trend,0.067,1.0,44.6132,False
+Djerid,annual mean water area (km2),MK,6,no trend,0.6,0.1329,78.3561,False
+Djerid,annual mean water volume (m3),MK,6,no trend,0.6,0.1329,109744571.2683,False
+Gharsa,monthly water area (km2),Seasonal MK,72,decreasing,-0.244,0.0197,-29.8418,True
+Gharsa,monthly water volume (m3),Seasonal MK,72,decreasing,-0.233,0.0262,-92235283.2,True
+Gharsa,wet-season (Feb) water area (km2),MK,6,no trend,-0.733,0.0603,-42.254,False
+Gharsa,dry-season (Jun) water area (km2),MK,6,no trend,-0.6,0.1329,-76.8626,False
+Gharsa,annual mean water area (km2),MK,6,no trend,-0.333,0.4524,-30.1459,False
+Gharsa,annual mean water volume (m3),MK,6,no trend,-0.467,0.2597,-63664129.7333,False
+Melghigh,monthly water area (km2),Seasonal MK,72,decreasing,-0.544,0.0,-116.2083,True
+Melghigh,monthly water volume (m3),Seasonal MK,72,decreasing,-0.378,0.0003,-148135204.2667,True
+Melghigh,wet-season (Feb) water area (km2),MK,6,decreasing,-0.867,0.0242,-186.8148,True
+Melghigh,dry-season (Jun) water area (km2),MK,6,no trend,-0.733,0.0603,-96.9331,False
+Melghigh,annual mean water area (km2),MK,6,no trend,-0.6,0.1329,-122.2264,False
+Melghigh,annual mean water volume (m3),MK,6,no trend,-0.6,0.1329,-168265425.6111,False
+Merouane,monthly water area (km2),Seasonal MK,72,decreasing,-0.644,0.0,-67.6534,True
+Merouane,monthly water volume (m3),Seasonal MK,72,decreasing,-0.467,0.0,-71410320.0,True
+Merouane,wet-season (Feb) water area (km2),MK,6,decreasing,-0.867,0.0242,-85.3563,True
+Merouane,dry-season (Jun) water area (km2),MK,6,no trend,-0.733,0.0603,-69.0416,False
+Merouane,annual mean water area (km2),MK,6,no trend,-0.6,0.1329,-73.7959,False
+Merouane,annual mean water volume (m3),MK,6,no trend,-0.6,0.1329,-103269606.6667,False

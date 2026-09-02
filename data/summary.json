@@ -1,0 +1,100 @@
+{
+ "thresholds_used": {
+  "Djerid": [
+   "-0.11"
+  ],
+  "Gharsa": [
+   "-0.1"
+  ],
+  "Melghigh": [
+   "-0.1"
+  ],
+  "Merouane": [
+   "-0.1"
+  ]
+ },
+ "n_scenes": {
+  "Djerid": 144,
+  "Gharsa": 136,
+  "Melghigh": 135,
+  "Merouane": 135
+ },
+ "scene_span": {
+  "Djerid": [
+   "2019-01-01",
+   "2024-12-18"
+  ],
+  "Gharsa": [
+   "2019-01-08",
+   "2024-12-23"
+  ],
+  "Melghigh": [
+   "2019-01-15",
+   "2024-12-30"
+  ],
+  "Merouane": [
+   "2019-01-15",
+   "2024-12-30"
+  ]
+ },
+ "seasonal_mean_volumes_m3": {
+  "Djerid": {
+   "wet_mean_vol": 519265348.22749996,
+   "dry_mean_vol": 819461218.8825,
+   "all_mean_vol": 491913529.9555556
+  },
+  "Gharsa": {
+   "wet_mean_vol": 1515012297.3333333,
+   "dry_mean_vol": 608769398.6666666,
+   "all_mean_vol": 975347632.5659722
+  },
+  "Melghigh": {
+   "wet_mean_vol": 753182023.3333334,
+   "dry_mean_vol": 590751389.3333334,
+   "all_mean_vol": 764113466.2013888
+  },
+  "Merouane": {
+   "wet_mean_vol": 593453869.3333334,
+   "dry_mean_vol": 546907488.0,
+   "all_mean_vol": 550536883.2257622
+  }
+ },
+ "depth_stats": [
+  {
+   "chott": "Djerid",
+   "mean_avg_depth": 1.495,
+   "sd_avg_depth": 0.552,
+   "mean_max_depth": 26.928,
+   "mean_surf_elev": 17.721,
+   "sd_surf_elev": 4.716,
+   "mean_bodies": 782.569
+  },
+  {
+   "chott": "Gharsa",
+   "mean_avg_depth": 2.438,
+   "sd_avg_depth": 1.442,
+   "mean_max_depth": 26.145,
+   "mean_surf_elev": -12.019,
+   "sd_surf_elev": 5.919,
+   "mean_bodies": 303.493
+  },
+  {
+   "chott": "Melghigh",
+   "mean_avg_depth": 1.265,
+   "sd_avg_depth": 0.612,
+   "mean_max_depth": 34.488,
+   "mean_surf_elev": -30.317,
+   "sd_surf_elev": 4.078,
+   "mean_bodies": 259.57
+  },
+  {
+   "chott": "Merouane",
+   "mean_avg_depth": 1.037,
+   "sd_avg_depth": 0.569,
+   "mean_max_depth": 36.697,
+   "mean_surf_elev": -29.797,
+   "sd_surf_elev": 4.351,
+   "mean_bodies": 228.719
+  }
+ ]
+}

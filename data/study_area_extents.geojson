@@ -1,0 +1,172 @@
+{
+ "type": "FeatureCollection",
+ "name": "algero_tunisian_chotts_analysis_extents",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "chott": "Chott Melghigh",
+    "country": "Algeria",
+    "sensor": "Landsat-8",
+    "mndwi_threshold": -0.1,
+    "west": 5.825829,
+    "south": 34.089807,
+    "east": 6.996115,
+    "north": 34.913205
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.825829,
+       34.089807
+      ],
+      [
+       6.996115,
+       34.089807
+      ],
+      [
+       6.996115,
+       34.913205
+      ],
+      [
+       5.825829,
+       34.913205
+      ],
+      [
+       5.825829,
+       34.089807
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "chott": "Chott Merouane",
+    "country": "Algeria",
+    "sensor": "Landsat-8",
+    "mndwi_threshold": -0.1,
+    "west": 5.927028,
+    "south": 33.853596,
+    "east": 6.500225,
+    "north": 34.21221
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.927028,
+       33.853596
+      ],
+      [
+       6.500225,
+       33.853596
+      ],
+      [
+       6.500225,
+       34.21221
+      ],
+      [
+       5.927028,
+       34.21221
+      ],
+      [
+       5.927028,
+       33.853596
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "chott": "Chott Djerid",
+    "country": "Tunisia",
+    "sensor": "Sentinel-2",
+    "mndwi_threshold": -0.11,
+    "west": 7.724641,
+    "south": 33.290255,
+    "east": 9.464564,
+    "north": 34.065671
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       7.724641,
+       33.290255
+      ],
+      [
+       9.464564,
+       33.290255
+      ],
+      [
+       9.464564,
+       34.065671
+      ],
+      [
+       7.724641,
+       34.065671
+      ],
+      [
+       7.724641,
+       33.290255
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "chott": "Chott Gharsa",
+    "country": "Tunisia",
+    "sensor": "Landsat-8",
+    "mndwi_threshold": -0.1,
+    "west": 7.360559,
+    "south": 33.915131,
+    "east": 8.235854,
+    "north": 34.258467
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       7.360559,
+       33.915131
+      ],
+      [
+       8.235854,
+       33.915131
+      ],
+      [
+       8.235854,
+       34.258467
+      ],
+      [
+       7.360559,
+       34.258467
+      ],
+      [
+       7.360559,
+       33.915131
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

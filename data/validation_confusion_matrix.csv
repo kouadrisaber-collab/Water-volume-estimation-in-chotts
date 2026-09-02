@@ -1,0 +1,7 @@
+# Confusion matrix of the MNDWI water classification against the 20 field points
+# collected in February 2024 (Table 3 of the article). Threshold: -0.10 (Landsat-8).
+# Point coordinates are withheld because they identify privately held land parcels;
+# they are available from the corresponding author on reasonable request.
+classified,reference_water,reference_non_water
+water,10,0
+non_water,0,10
