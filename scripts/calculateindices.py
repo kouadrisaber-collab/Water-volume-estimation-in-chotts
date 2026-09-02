@@ -14,7 +14,6 @@ ee.Initialize(project='ee-kouadrisaber8')
 from google.colab import drive
 
 # Classification threshold applied to MNDSI = (SWIR1 - SWIR2)/(SWIR1 + SWIR2).
-# This is the value used to produce the MNDSI areas in data/*_MNDSI.xlsx.
 MNDSI_THRESHOLD = 0.12
 
 drive.mount('/content/drive', force_remount=True)
