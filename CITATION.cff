@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this code or these data, please cite the associated article."
+title: "Remote sensing-based water volume and lithium potential of the Algero-Tunisian chotts: code and derived data"
+authors:
+  - family-names: Hacini
+    given-names: Mohammed Elelmi
+  - family-names: Kallel
+    given-names: Amjad
+  - family-names: Kouadri
+    given-names: Saber
+  - family-names: Hacini
+    given-names: Messaoud
+  - family-names: Djidel
+    given-names: Mohamed
+  - family-names: Khan
+    given-names: Mohammad Arsalan
+  - family-names: Alsubih
+    given-names: Majed
+  - family-names: Islam
+    given-names: Saiful
+license: MIT
+preferred-citation:
+  type: article
+  title: "Remote Sensing-Based Water Volume Estimation in Algero-Tunisian Chotts and Preliminary Assessment of Lithium Potential"
+  journal: "Pure and Applied Geophysics"
+  year: 2026
+  status: submitted
+  authors:
+    - family-names: Hacini
+      given-names: Mohammed Elelmi
+    - family-names: Kallel
+      given-names: Amjad
+    - family-names: Kouadri
+      given-names: Saber
+    - family-names: Hacini
+      given-names: Messaoud
+    - family-names: Djidel
+      given-names: Mohamed
+    - family-names: Khan
+      given-names: Mohammad Arsalan
+    - family-names: Alsubih
+      given-names: Majed
+    - family-names: Islam
+      given-names: Saiful
